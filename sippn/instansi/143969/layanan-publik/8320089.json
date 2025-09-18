@@ -1,0 +1,67 @@
+{
+  "fetched_at": "2025-09-18T05:08:51.360Z",
+  "layanan_publik": {
+    "detail": {
+      "id": 8320089,
+      "instansi_id": 143969,
+      "produk_layanan_id": 181221,
+      "id_sk": 0,
+      "produk_layanan": {
+        "id": 181221,
+        "nama": "Ruang GTK"
+      },
+      "judul": "Penambahan Pengguna Ruang GTK ke Ekinerja BKN",
+      "slug": "penambahan-pengguna-ruang-gtk-ke-ekinerja-bkn",
+      "nomor_sk": "",
+      "longitude": null,
+      "latitude": null,
+      "pengaduan_pelayanan": "<p></p><ol><li>PTK pemohon memastikan data identitas pada verval PTK Satuan Pendidikan telah  padan dengan DUKCAPIL dan BKN</li><li>Menginformasikan NIP kepada petugas Ruang GTK di Dinas Pendidikan Kabupaten Berau yang telah ditunjuk</li></ol>",
+      "bagan_prosedur": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "last_update": "2025-09-17 10:05:03",
+      "biaya": {
+        "total": "0",
+        "deskripsi": ""
+      },
+      "waktu": {
+        "waktu": "24",
+        "satuan": "Jam",
+        "deskripsi": "<p>Data PTK sudah padan dengan Dukcapil dan BKN pada portal Verval PTK Satuan Pendidikan</p>"
+      }
+    },
+    "persyaratan": [
+      "PTK adalah ASN Aktif pada Dapodik",
+      "Data PTK telah padan dengan data DUKCAPIL dan BKN"
+    ],
+    "prosedur": [],
+    "instansi": {
+      "id": 143969,
+      "id_tipe_instansi": 18,
+      "nama": "Dinas Pendidikan Kabupaten Berau",
+      "alias": "Disdik Berau",
+      "slug": "dinas-pendidikan-kabupaten-berau",
+      "alamat": "Jl. Murjani I",
+      "logo": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "banner": null,
+      "maklumat": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "telp": "0",
+      "email": "info@disdikberau.id",
+      "website": "https://disdik.beraukab.go.id",
+      "subdomain_lapor": "",
+      "kodepos": "77311",
+      "latitude": "",
+      "longitude": "",
+      "gmap_location": null,
+      "parent_id": 7516,
+      "parent_name": "Pemerintah Kab. Berau",
+      "parent_slug": "pemerintah-kab-berau",
+      "wilayah": {
+        "kode_provinsi": "6400000000",
+        "kode_kabupaten": "6405000000",
+        "kode_kecamatan": "0000001110",
+        "kode_desa": "0000011110"
+      },
+      "tipe": null,
+      "cache": "300"
+    }
+  }
+}
