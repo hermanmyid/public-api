@@ -1,0 +1,74 @@
+{
+  "fetched_at": "2025-09-18T03:38:12.208Z",
+  "layanan_publik": {
+    "detail": {
+      "id": 8320244,
+      "instansi_id": 143969,
+      "produk_layanan_id": 181308,
+      "id_sk": 0,
+      "produk_layanan": {
+        "id": 181308,
+        "nama": "Legalisir Fotokopi Ijazah dan SKHU SD/SMP"
+      },
+      "judul": "Legalisir Fotokopi Ijazah serta SKHU SD dan SMP",
+      "slug": "legalisir-fotokopi-ijazah-serta-skhu-sd-dan-smp",
+      "nomor_sk": "",
+      "longitude": null,
+      "latitude": null,
+      "pengaduan_pelayanan": "<p>a. Kotak Saran/Pengaduan<br />b. Website : www.disdik.beraukab.go.id<br />c.  Aplikasi website dan android “Lapor SP4N”<br /><br />Pejabat Pengelola Pengaduan :<br />a. Ali Syahbana, SE., M.Pd - Hp. 081251306843<br />b. Hj. Elly Kesuma Wijaya, SH - Hp. 082242923124<br />c. Septian Zul`Faik, S.Kom - Hp. 085393945694</p>",
+      "bagan_prosedur": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "last_update": "2025-09-18 10:37:34",
+      "biaya": {
+        "total": "0",
+        "deskripsi": ""
+      },
+      "waktu": {
+        "waktu": "35",
+        "satuan": "Menit",
+        "deskripsi": "<p>Maksimal 35 menit setelah berkas persyaratan lengkap dan pejabat berwenang berada ditempat<br /></p>"
+      }
+    },
+    "persyaratan": [
+      "Ijazah serta SKHU SD dan SMP Asli",
+      "Fotokopi Ijazah serta SKHU sebanyak 6 lembar (5 buat Pemohon dan 1 sebagai Arsip)"
+    ],
+    "prosedur": [
+      "Membawa ijazah dan SKHU asli serta fotokopinya ke meja legalisir di ruang sub bagian Umum dan Kepegawaian; Sekretariat Daerah untuk diterbitkan Melakukan pengecekan keabsahan ijazah dan SKHU, jika lengkap diberi stempel legalisir, mencatat dalam buku agenda dan diserahkan ke Kepala Sub Bagian Umum dan Kepegawaian;",
+      "Meneliti keabsahan ijazah dan SKHU serta berkas kelengkapan, jika lengkap kemudian diparaf lalu disampaikan kepada Sekretaris dan Kepala Dinas;",
+      "Berkas yang sudah lengkap ditandatangani;",
+      "Memberikan stempel dinas pada legalisir;",
+      "Penyerahan fotocopy ijazah dan SKHU yang sudah dilegalisir kepada pemohon dan menandatangani tanda terima pada buku agenda;",
+      "Apabila ijazah hilang membawa surat keterangan kehilangan dari kepolisian setempat."
+    ],
+    "instansi": {
+      "id": 143969,
+      "id_tipe_instansi": 18,
+      "nama": "Dinas Pendidikan Kabupaten Berau",
+      "alias": "Disdik Berau",
+      "slug": "dinas-pendidikan-kabupaten-berau",
+      "alamat": "Jl. Murjani I",
+      "logo": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "banner": null,
+      "maklumat": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "telp": "0",
+      "email": "info@disdikberau.id",
+      "website": "https://disdik.beraukab.go.id",
+      "subdomain_lapor": "",
+      "kodepos": "77311",
+      "latitude": "",
+      "longitude": "",
+      "gmap_location": null,
+      "parent_id": 7516,
+      "parent_name": "Pemerintah Kab. Berau",
+      "parent_slug": "pemerintah-kab-berau",
+      "wilayah": {
+        "kode_provinsi": "6400000000",
+        "kode_kabupaten": "6405000000",
+        "kode_kecamatan": "0000001110",
+        "kode_desa": "0000011110"
+      },
+      "tipe": null,
+      "cache": "300"
+    }
+  }
+}
