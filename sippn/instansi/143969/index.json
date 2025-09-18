@@ -1,0 +1,51 @@
+{
+  "msg": "OK",
+  "data": [
+    {
+      "id_instansi": 143969,
+      "id_produk_layanan": 8320244,
+      "judul_layanan": "Legalisir Fotokopi Ijazah serta SKHU SD dan SMP",
+      "nama_layanan": "Legalisir Fotokopi Ijazah dan SKHU SD/SMP",
+      "uri": "legalisir-fotokopi-ijazah-serta-skhu-sd-dan-smp",
+      "logo": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "nama_instansi": "Dinas Pendidikan Kabupaten Berau",
+      "slug_instansi": "dinas-pendidikan-kabupaten-berau"
+    },
+    {
+      "id_instansi": 143969,
+      "id_produk_layanan": 8320090,
+      "judul_layanan": "Penambahan Peserta Didik Non Dapodik",
+      "nama_layanan": "Dapodik",
+      "uri": "penambahan-peserta-didik-non-dapodik",
+      "logo": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "nama_instansi": "Dinas Pendidikan Kabupaten Berau",
+      "slug_instansi": "dinas-pendidikan-kabupaten-berau"
+    },
+    {
+      "id_instansi": 143969,
+      "id_produk_layanan": 8320089,
+      "judul_layanan": "Penambahan Pengguna Ruang GTK ke Ekinerja BKN",
+      "nama_layanan": "Ruang GTK",
+      "uri": "penambahan-pengguna-ruang-gtk-ke-ekinerja-bkn",
+      "logo": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "nama_instansi": "Dinas Pendidikan Kabupaten Berau",
+      "slug_instansi": "dinas-pendidikan-kabupaten-berau"
+    },
+    {
+      "id_instansi": 143969,
+      "id_produk_layanan": 8320087,
+      "judul_layanan": "Penambahan PTK Sekolah Negeri Baru ke DAPODIK",
+      "nama_layanan": "Dapodik",
+      "uri": "penambahan-ptk-sekolah-negeri-baru-ke-dapodik",
+      "logo": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "nama_instansi": "Dinas Pendidikan Kabupaten Berau",
+      "slug_instansi": "dinas-pendidikan-kabupaten-berau"
+    }
+  ],
+  "meta": {
+    "page": 1,
+    "limit": 100000,
+    "pages": 1,
+    "total": 4
+  }
+}
