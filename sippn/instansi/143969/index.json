@@ -3,11 +3,41 @@
   "data": [
     {
       "id_instansi": 143969,
+      "id_produk_layanan": 8320896,
+      "judul_layanan": "Izin Pendirian TK, SD dan SMP",
+      "nama_layanan": "Izin Pendirian Sekolah",
+      "uri": "izin-pendirian-tk-sd-dan-smp",
+      "logo": "https://sippn.menpan.go.id/assets/images/article/large/zvvdrgirluz5cmgnfyd16qxvclcaq0zrig8rrsqe-20250919080020.jpg",
+      "nama_instansi": "Dinas Pendidikan Kabupaten Berau",
+      "slug_instansi": "dinas-pendidikan-kabupaten-berau"
+    },
+    {
+      "id_instansi": 143969,
+      "id_produk_layanan": 8320892,
+      "judul_layanan": "Mutasi Siswa SD dan SMP",
+      "nama_layanan": "Surat Rekomendasi Mutasi Siswa",
+      "uri": "mutasi-siswa-sd-dan-smp",
+      "logo": "https://sippn.menpan.go.id/assets/images/article/large/zvvdrgirluz5cmgnfyd16qxvclcaq0zrig8rrsqe-20250919080020.jpg",
+      "nama_instansi": "Dinas Pendidikan Kabupaten Berau",
+      "slug_instansi": "dinas-pendidikan-kabupaten-berau"
+    },
+    {
+      "id_instansi": 143969,
+      "id_produk_layanan": 8320867,
+      "judul_layanan": "Rekomendasi Izin Pendirian Lembaga Kursus dan Pelatihan (LKP)",
+      "nama_layanan": "Rekomendari Pendirian Lembaga",
+      "uri": "rekomendasi-izin-pendirian-lembaga-kursus-dan-pelatihan-lkp",
+      "logo": "https://sippn.menpan.go.id/assets/images/article/large/zvvdrgirluz5cmgnfyd16qxvclcaq0zrig8rrsqe-20250919080020.jpg",
+      "nama_instansi": "Dinas Pendidikan Kabupaten Berau",
+      "slug_instansi": "dinas-pendidikan-kabupaten-berau"
+    },
+    {
+      "id_instansi": 143969,
       "id_produk_layanan": 8320772,
       "judul_layanan": "Surat Keterangan Pengganti Ijazah Paket A, B dan C",
       "nama_layanan": "Surat keterangan pengganti ijazah",
       "uri": "surat-keterangan-pengganti-ijazah-paket-a-b-dan-c",
-      "logo": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "logo": "https://sippn.menpan.go.id/assets/images/article/large/zvvdrgirluz5cmgnfyd16qxvclcaq0zrig8rrsqe-20250919080020.jpg",
       "nama_instansi": "Dinas Pendidikan Kabupaten Berau",
       "slug_instansi": "dinas-pendidikan-kabupaten-berau"
     },
@@ -17,7 +47,7 @@
       "judul_layanan": "Tunjangan Pendidik Swasta",
       "nama_layanan": "Dana Tunjangan Pendidik",
       "uri": "tunjangan-pendidik-swasta",
-      "logo": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "logo": "https://sippn.menpan.go.id/assets/images/article/large/zvvdrgirluz5cmgnfyd16qxvclcaq0zrig8rrsqe-20250919080020.jpg",
       "nama_instansi": "Dinas Pendidikan Kabupaten Berau",
       "slug_instansi": "dinas-pendidikan-kabupaten-berau"
     },
@@ -27,7 +57,7 @@
       "judul_layanan": "Surat Keterangan Magang/ PKL/ KKN? Penelitian",
       "nama_layanan": "Dapodik",
       "uri": "surat-keterangan-magang-pkl-kkn-penelitian",
-      "logo": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "logo": "https://sippn.menpan.go.id/assets/images/article/large/zvvdrgirluz5cmgnfyd16qxvclcaq0zrig8rrsqe-20250919080020.jpg",
       "nama_instansi": "Dinas Pendidikan Kabupaten Berau",
       "slug_instansi": "dinas-pendidikan-kabupaten-berau"
     },
@@ -37,7 +67,7 @@
       "judul_layanan": "Legalisir Fotokopi Ijazah serta SKHU SD dan SMP",
       "nama_layanan": "Legalisir Fotokopi Ijazah dan SKHU SD/SMP",
       "uri": "legalisir-fotokopi-ijazah-serta-skhu-sd-dan-smp",
-      "logo": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "logo": "https://sippn.menpan.go.id/assets/images/article/large/zvvdrgirluz5cmgnfyd16qxvclcaq0zrig8rrsqe-20250919080020.jpg",
       "nama_instansi": "Dinas Pendidikan Kabupaten Berau",
       "slug_instansi": "dinas-pendidikan-kabupaten-berau"
     },
@@ -47,7 +77,7 @@
       "judul_layanan": "Penambahan Peserta Didik Non Dapodik",
       "nama_layanan": "Dapodik",
       "uri": "penambahan-peserta-didik-non-dapodik",
-      "logo": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "logo": "https://sippn.menpan.go.id/assets/images/article/large/zvvdrgirluz5cmgnfyd16qxvclcaq0zrig8rrsqe-20250919080020.jpg",
       "nama_instansi": "Dinas Pendidikan Kabupaten Berau",
       "slug_instansi": "dinas-pendidikan-kabupaten-berau"
     },
@@ -57,7 +87,7 @@
       "judul_layanan": "Penambahan Pengguna Ruang GTK ke Ekinerja BKN",
       "nama_layanan": "Ruang GTK",
       "uri": "penambahan-pengguna-ruang-gtk-ke-ekinerja-bkn",
-      "logo": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "logo": "https://sippn.menpan.go.id/assets/images/article/large/zvvdrgirluz5cmgnfyd16qxvclcaq0zrig8rrsqe-20250919080020.jpg",
       "nama_instansi": "Dinas Pendidikan Kabupaten Berau",
       "slug_instansi": "dinas-pendidikan-kabupaten-berau"
     },
@@ -67,7 +97,7 @@
       "judul_layanan": "Penambahan PTK Sekolah Negeri Baru ke DAPODIK",
       "nama_layanan": "Dapodik",
       "uri": "penambahan-ptk-sekolah-negeri-baru-ke-dapodik",
-      "logo": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "logo": "https://sippn.menpan.go.id/assets/images/article/large/zvvdrgirluz5cmgnfyd16qxvclcaq0zrig8rrsqe-20250919080020.jpg",
       "nama_instansi": "Dinas Pendidikan Kabupaten Berau",
       "slug_instansi": "dinas-pendidikan-kabupaten-berau"
     }
@@ -76,6 +106,6 @@
     "page": 1,
     "limit": 100000,
     "pages": 1,
-    "total": 7
+    "total": 10
   }
 }
