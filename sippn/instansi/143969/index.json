@@ -3,6 +3,26 @@
   "data": [
     {
       "id_instansi": 143969,
+      "id_produk_layanan": 8320772,
+      "judul_layanan": "Surat Keterangan Pengganti Ijazah Paket A, B dan C",
+      "nama_layanan": "Surat keterangan pengganti ijazah",
+      "uri": "surat-keterangan-pengganti-ijazah-paket-a-b-dan-c",
+      "logo": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "nama_instansi": "Dinas Pendidikan Kabupaten Berau",
+      "slug_instansi": "dinas-pendidikan-kabupaten-berau"
+    },
+    {
+      "id_instansi": 143969,
+      "id_produk_layanan": 8320761,
+      "judul_layanan": "Tunjangan Pendidik Swasta",
+      "nama_layanan": "Dana Tunjangan Pendidik",
+      "uri": "tunjangan-pendidik-swasta",
+      "logo": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "nama_instansi": "Dinas Pendidikan Kabupaten Berau",
+      "slug_instansi": "dinas-pendidikan-kabupaten-berau"
+    },
+    {
+      "id_instansi": 143969,
       "id_produk_layanan": 8320734,
       "judul_layanan": "Surat Keterangan Magang/ PKL/ KKN? Penelitian",
       "nama_layanan": "Dapodik",
@@ -56,6 +76,6 @@
     "page": 1,
     "limit": 100000,
     "pages": 1,
-    "total": 5
+    "total": 7
   }
 }
