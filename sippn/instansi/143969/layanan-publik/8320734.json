@@ -1,0 +1,74 @@
+{
+  "fetched_at": "2025-09-19T06:01:54.411Z",
+  "layanan_publik": {
+    "detail": {
+      "id": 8320734,
+      "instansi_id": 143969,
+      "produk_layanan_id": 4421,
+      "id_sk": 0,
+      "produk_layanan": {
+        "id": 4421,
+        "nama": "Dapodik"
+      },
+      "judul": "Surat Keterangan Magang/ PKL/ KKN? Penelitian",
+      "slug": "surat-keterangan-magang-pkl-kkn-penelitian",
+      "nomor_sk": "",
+      "longitude": null,
+      "latitude": null,
+      "pengaduan_pelayanan": "<p></p><ul><li>Kotak Saran &amp; Pengaduan</li><li>Media Sosial</li><li>Aplikasi SP4N LAPOR</li></ul>",
+      "bagan_prosedur": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "last_update": "2025-09-19 06:01:28",
+      "biaya": {
+        "total": "0",
+        "deskripsi": ""
+      },
+      "waktu": {
+        "waktu": "24",
+        "satuan": "Jam",
+        "deskripsi": ""
+      }
+    },
+    "persyaratan": [
+      "Surat Permohonan dari Sekolah/ Perguruan Tinggi",
+      "Data identitas siswa/ mahasiswa magang/ PKL/ KKN / Penelitian"
+    ],
+    "prosedur": [
+      "Menyerahkan surat permohonan dan identitas ke bagian Front Officec",
+      "Surat dicatat di agenda surat masuk dan lembar disposisi kepala dinas",
+      "Resepsionis menyerahkan surat dan lembar disposisi ke Kasubbag Umum dan Kepegawaian",
+      "Kepala Sub Bag Umum dan Kepegawain menunjuk staf untuk meneliti surat permohonan",
+      "Apabila sudah benar maka staf akan membuatkan surat keterangan, jika tidak surat dikembalikan ke pemohon",
+      "Mengirim/ menginformasikan ke sekolah/ perguruan tinggi"
+    ],
+    "instansi": {
+      "id": 143969,
+      "id_tipe_instansi": 18,
+      "nama": "Dinas Pendidikan Kabupaten Berau",
+      "alias": "Disdik Berau",
+      "slug": "dinas-pendidikan-kabupaten-berau",
+      "alamat": "Jl. Murjani I",
+      "logo": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "banner": null,
+      "maklumat": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "telp": "085393945694",
+      "email": "info@disdikberau.id",
+      "website": "https://disdik.beraukab.go.id",
+      "subdomain_lapor": "",
+      "kodepos": "77311",
+      "latitude": "",
+      "longitude": "",
+      "gmap_location": null,
+      "parent_id": 7516,
+      "parent_name": "Pemerintah Kab. Berau",
+      "parent_slug": "pemerintah-kab-berau",
+      "wilayah": {
+        "kode_provinsi": "6400000000",
+        "kode_kabupaten": "6405000000",
+        "kode_kecamatan": "0000001110",
+        "kode_desa": "0000011110"
+      },
+      "tipe": null,
+      "cache": "300"
+    }
+  }
+}
