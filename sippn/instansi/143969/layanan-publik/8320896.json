@@ -1,0 +1,74 @@
+{
+  "fetched_at": "2025-09-19T08:22:48.001Z",
+  "layanan_publik": {
+    "detail": {
+      "id": 8320896,
+      "instansi_id": 143969,
+      "produk_layanan_id": 90173,
+      "id_sk": 0,
+      "produk_layanan": {
+        "id": 90173,
+        "nama": "Izin Pendirian Sekolah"
+      },
+      "judul": "Izin Pendirian TK, SD dan SMP",
+      "slug": "izin-pendirian-tk-sd-dan-smp",
+      "nomor_sk": "",
+      "longitude": null,
+      "latitude": null,
+      "pengaduan_pelayanan": "<p></p><ul><li><span class=\"cf0\">Datang</span><span class=\"cf0\"> </span><span class=\"cf0\">langsung</span><span class=\"cf0\"> </span><span class=\"cf0\">ke</span><span class=\"cf0\"> Kantor Dinas Pendidikan </span><span class=\"cf0\">Kabupaten</span><span class=\"cf0\"> </span><span class=\"cf0\">Berau</span></li><li class=\"pf1\"><span class=\"cf0\">Media Sosial Dinas Pendidikan </span><span class=\"cf0\">Kabupaten</span><span class=\"cf0\"> </span><span class=\"cf0\">Berau</span></li><li class=\"pf1\"><span>Web SP4N LAPOR</span></li></ul><br />\n<p><br /></p>\n&lt;style style=\"color: rgb(0, 0, 0);\"&gt;.pf0{list-style-type:disc;text-indent:-20pt;margin-left:20pt;}.pf1{}&lt;/style&gt;\n<p><br /></p>\n&lt;style style=\"color: rgb(0, 0, 0);\"&gt;.cf0{font-family:Consolas;font-size:11pt;color:#FFFFFF;}&lt;/style&gt;\n<p><br /></p>\n&lt;style style=\"color: rgb(0, 0, 0);\"&gt;body{font-family:Arial,sans-serif;font-size:10pt;}&lt;/style&gt;",
+      "bagan_prosedur": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "last_update": "2025-09-19 08:22:02",
+      "biaya": {
+        "total": "0",
+        "deskripsi": ""
+      },
+      "waktu": {
+        "waktu": "11",
+        "satuan": "Hari kerja",
+        "deskripsi": ""
+      }
+    },
+    "persyaratan": [
+      "Proposal Pendirian Sekolah",
+      "Nomor Induk Berusaha dan Izin Usaha"
+    ],
+    "prosedur": [
+      "Lembaga pemohon menyerahkan berkas ke resepsionis untui didisposisi",
+      "Pemohon membawa berkas ke bidang yang sesuai jenjang satuan pendidikan",
+      "Dinas Pendidikan melalui bidang Pembinaan PAUD/ SD/ SMP membuat permohonan ke Bagian Hukum Setda Berau",
+      "Setelah mendapat surat persetujuan, Dinas Pendidikan Berau melakukan verifikasi ke sekolah pemohon",
+      "Pejabat yang ditunjuk bersama tim, melalukan analisa terhadap kesesuaian dokumen",
+      "Setelah dianggap layak, Dinas Pendidikan melalui bidang yang ditunjuk membuat surat rekomendasi pendirian sekolah"
+    ],
+    "instansi": {
+      "id": 143969,
+      "id_tipe_instansi": 18,
+      "nama": "Dinas Pendidikan Kabupaten Berau",
+      "alias": "Disdik Berau",
+      "slug": "dinas-pendidikan-kabupaten-berau",
+      "alamat": "Jl. Murjani I",
+      "logo": "https://sippn.menpan.go.id/assets/images/article/large/zvvdrgirluz5cmgnfyd16qxvclcaq0zrig8rrsqe-20250919080020.jpg",
+      "banner": null,
+      "maklumat": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "telp": "085393945694",
+      "email": "info@disdikberau.id",
+      "website": "https://disdik.beraukab.go.id",
+      "subdomain_lapor": "",
+      "kodepos": "77311",
+      "latitude": "",
+      "longitude": "",
+      "gmap_location": null,
+      "parent_id": 7516,
+      "parent_name": "Pemerintah Kab. Berau",
+      "parent_slug": "pemerintah-kab-berau",
+      "wilayah": {
+        "kode_provinsi": "6400000000",
+        "kode_kabupaten": "6405000000",
+        "kode_kecamatan": "0000001110",
+        "kode_desa": "0000011110"
+      },
+      "tipe": null,
+      "cache": "300"
+    }
+  }
+}
