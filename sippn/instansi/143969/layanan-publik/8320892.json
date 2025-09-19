@@ -1,0 +1,76 @@
+{
+  "fetched_at": "2025-09-19T08:22:48.002Z",
+  "layanan_publik": {
+    "detail": {
+      "id": 8320892,
+      "instansi_id": 143969,
+      "produk_layanan_id": 38435,
+      "id_sk": 0,
+      "produk_layanan": {
+        "id": 38435,
+        "nama": "Surat Rekomendasi Mutasi Siswa"
+      },
+      "judul": "Mutasi Siswa SD dan SMP",
+      "slug": "mutasi-siswa-sd-dan-smp",
+      "nomor_sk": "",
+      "longitude": null,
+      "latitude": null,
+      "pengaduan_pelayanan": "<p></p><ul><li>Datang langsung ke Kantor Dinas Pendidikan Kabupaten Berau</li><li> Media Sosial Dinas Pendidikan Kabupaten Berau</li><li> Web SP4N LAPOR\n</li></ul>",
+      "bagan_prosedur": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "last_update": "2025-09-19 08:15:37",
+      "biaya": {
+        "total": "0",
+        "deskripsi": ""
+      },
+      "waktu": {
+        "waktu": "24",
+        "satuan": "Jam",
+        "deskripsi": ""
+      }
+    },
+    "persyaratan": [
+      "Salinan Rapor yang menunjukan biodata dan nilai lengkap",
+      "Salinan keterangan pindah dari sekolah asal",
+      "Salinan keterangan pindah dari sekolah tujuan (jika ada)",
+      "Surat keterangan mutasi DAPODIK dari sekolah asal",
+      "Asli surat permohonan dari orang tua/ wali siswa bermaterai"
+    ],
+    "prosedur": [
+      "Menyerahkan dokumen ke resepsionis untuk disposisi ",
+      "Mengantar disposisi dan kelengkapan ke  bidang sesuai jenjang pendidikan peserta didik",
+      "Petugas pada bidang SD/ SMP yang ditunjuk memeriksa keabsahan dan kelengkapan berkas",
+      "Kasi kesiswaaan memeriksa ulang  keabsahan dan kelengkapan berkas lalu menunjuk staff untuk membuat surat rekomendasi",
+      "Menyerahkan surat rekomendasi kepada pemohon"
+    ],
+    "instansi": {
+      "id": 143969,
+      "id_tipe_instansi": 18,
+      "nama": "Dinas Pendidikan Kabupaten Berau",
+      "alias": "Disdik Berau",
+      "slug": "dinas-pendidikan-kabupaten-berau",
+      "alamat": "Jl. Murjani I",
+      "logo": "https://sippn.menpan.go.id/assets/images/article/large/zvvdrgirluz5cmgnfyd16qxvclcaq0zrig8rrsqe-20250919080020.jpg",
+      "banner": null,
+      "maklumat": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "telp": "085393945694",
+      "email": "info@disdikberau.id",
+      "website": "https://disdik.beraukab.go.id",
+      "subdomain_lapor": "",
+      "kodepos": "77311",
+      "latitude": "",
+      "longitude": "",
+      "gmap_location": null,
+      "parent_id": 7516,
+      "parent_name": "Pemerintah Kab. Berau",
+      "parent_slug": "pemerintah-kab-berau",
+      "wilayah": {
+        "kode_provinsi": "6400000000",
+        "kode_kabupaten": "6405000000",
+        "kode_kecamatan": "0000001110",
+        "kode_desa": "0000011110"
+      },
+      "tipe": null,
+      "cache": "300"
+    }
+  }
+}
