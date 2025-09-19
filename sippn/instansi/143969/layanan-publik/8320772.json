@@ -1,0 +1,78 @@
+{
+  "fetched_at": "2025-09-19T06:52:16.077Z",
+  "layanan_publik": {
+    "detail": {
+      "id": 8320772,
+      "instansi_id": 143969,
+      "produk_layanan_id": 11304,
+      "id_sk": 0,
+      "produk_layanan": {
+        "id": 11304,
+        "nama": "Surat keterangan pengganti ijazah"
+      },
+      "judul": "Surat Keterangan Pengganti Ijazah Paket A, B dan C",
+      "slug": "surat-keterangan-pengganti-ijazah-paket-a-b-dan-c",
+      "nomor_sk": "",
+      "longitude": null,
+      "latitude": null,
+      "pengaduan_pelayanan": "<p></p><ul><li>Datang langsung ke Kantor Dinas Pendidikan Kabupaten Berau</li><li>Media Sosial Dinas Pendidikan Kabupaten Berau</li><li>Web SP4N LAPOR</li></ul>",
+      "bagan_prosedur": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "last_update": "2025-09-19 06:44:51",
+      "biaya": {
+        "total": "0",
+        "deskripsi": ""
+      },
+      "waktu": {
+        "waktu": "48",
+        "satuan": "Jam",
+        "deskripsi": ""
+      }
+    },
+    "persyaratan": [
+      "Surat Permohonan",
+      "Data indentitas pemohon",
+      "Surat keterangan dari Lembaga Kesetaraan",
+      "Surat pernyataan pertanggung jawaban mutlak",
+      "Surat keterangan hilang dari Kepolisian"
+    ],
+    "prosedur": [
+      "Menyerahkan kelengkapan ke resepsionis untuk diagendakan dan disposisi",
+      "Membawa perlengkapan dan lembar disposisi ke Bagian Kesetaraan Pendidikan Masyarakat",
+      "Petugas pada bagian DIKMAS meneliti kelengkapan dan memeriksa keabsahan pemohon untuk dapat dibuatkan surat keterangan",
+      "Petugas yang memvalidasi membuat surat keterangan",
+      "Menyerahkan ke kasi DIKMAS dan Kabid PAUD DIKMAS untuk diparaf",
+      "Menyerahkan surat keterangan kepada resepsionis untuk ditanda tangani Kepala Dinas Pendidikan ",
+      "Menyerahkan surat keterangan kepada pemohon"
+    ],
+    "instansi": {
+      "id": 143969,
+      "id_tipe_instansi": 18,
+      "nama": "Dinas Pendidikan Kabupaten Berau",
+      "alias": "Disdik Berau",
+      "slug": "dinas-pendidikan-kabupaten-berau",
+      "alamat": "Jl. Murjani I",
+      "logo": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "banner": null,
+      "maklumat": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "telp": "085393945694",
+      "email": "info@disdikberau.id",
+      "website": "https://disdik.beraukab.go.id",
+      "subdomain_lapor": "",
+      "kodepos": "77311",
+      "latitude": "",
+      "longitude": "",
+      "gmap_location": null,
+      "parent_id": 7516,
+      "parent_name": "Pemerintah Kab. Berau",
+      "parent_slug": "pemerintah-kab-berau",
+      "wilayah": {
+        "kode_provinsi": "6400000000",
+        "kode_kabupaten": "6405000000",
+        "kode_kecamatan": "0000001110",
+        "kode_desa": "0000011110"
+      },
+      "tipe": null,
+      "cache": "300"
+    }
+  }
+}
