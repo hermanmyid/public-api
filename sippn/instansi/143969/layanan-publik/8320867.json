@@ -1,0 +1,79 @@
+{
+  "fetched_at": "2025-09-19T08:22:48.002Z",
+  "layanan_publik": {
+    "detail": {
+      "id": 8320867,
+      "instansi_id": 143969,
+      "produk_layanan_id": 181607,
+      "id_sk": 0,
+      "produk_layanan": {
+        "id": 181607,
+        "nama": "Rekomendari Pendirian Lembaga"
+      },
+      "judul": "Rekomendasi Izin Pendirian Lembaga Kursus dan Pelatihan (LKP)",
+      "slug": "rekomendasi-izin-pendirian-lembaga-kursus-dan-pelatihan-lkp",
+      "nomor_sk": "",
+      "longitude": null,
+      "latitude": null,
+      "pengaduan_pelayanan": "<p></p><ul><li>Datang langsung ke Kantor Dinas Pendidikan Kabupaten Berau</li><li> Media Sosial Dinas Pendidikan Kabupaten Berau</li><li> Web SP4N LAPOR\n</li></ul>",
+      "bagan_prosedur": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "last_update": "2025-09-19 08:02:22",
+      "biaya": {
+        "total": "0",
+        "deskripsi": ""
+      },
+      "waktu": {
+        "waktu": "24",
+        "satuan": "Jam",
+        "deskripsi": ""
+      }
+    },
+    "persyaratan": [
+      "Surat Permohonan dari Lemabaga",
+      "Sttruktur Kepengurusan",
+      "Akta Pendirian Lembaga",
+      "Profil Lembaga",
+      "Dokumentasi kegiatan yang telah berjalan"
+    ],
+    "prosedur": [
+      "Menyerahkan semua kelengkapan persyaratan ke resepsionis untuk diberi disposisi",
+      "Surat disposisi diserahkan ke staff DIKMAS dan Kesetaraan",
+      "Staff DIKMAS dan Kesetaraan yang ditunjuk memeriksa kelengkapan dan keabsahan berkas dan menyerahkanke kasi DIKMAS dan Kesetaraan",
+      "Kasi DIKMAS dan Kesetaraan memeriksa ulang kelengkapan dan keabsahan berkas untuk selanjutnya memeritahkan staff untuk membuat surat rekomendasi",
+      "Staff DIKMAS dan Kesetaraan yang ditunjuk membuat surat rekomendasi",
+      "Kasi DIKMAS dan Kesetaraan dan Kabid PAUD DIKMAS dan Kesetaraan memaraf surat rekomendasi",
+      "Mengantar surat rekomendasi untuk ditanda tangani Kepala Dinas Pendidikan ",
+      "Menyeraahkan surat rekomendasi kepada pemohon"
+    ],
+    "instansi": {
+      "id": 143969,
+      "id_tipe_instansi": 18,
+      "nama": "Dinas Pendidikan Kabupaten Berau",
+      "alias": "Disdik Berau",
+      "slug": "dinas-pendidikan-kabupaten-berau",
+      "alamat": "Jl. Murjani I",
+      "logo": "https://sippn.menpan.go.id/assets/images/article/large/zvvdrgirluz5cmgnfyd16qxvclcaq0zrig8rrsqe-20250919080020.jpg",
+      "banner": null,
+      "maklumat": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
+      "telp": "085393945694",
+      "email": "info@disdikberau.id",
+      "website": "https://disdik.beraukab.go.id",
+      "subdomain_lapor": "",
+      "kodepos": "77311",
+      "latitude": "",
+      "longitude": "",
+      "gmap_location": null,
+      "parent_id": 7516,
+      "parent_name": "Pemerintah Kab. Berau",
+      "parent_slug": "pemerintah-kab-berau",
+      "wilayah": {
+        "kode_provinsi": "6400000000",
+        "kode_kabupaten": "6405000000",
+        "kode_kecamatan": "0000001110",
+        "kode_desa": "0000011110"
+      },
+      "tipe": null,
+      "cache": "300"
+    }
+  }
+}
