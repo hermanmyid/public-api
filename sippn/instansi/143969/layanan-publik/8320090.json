@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-10-09T04:00:38.900Z",
+  "fetched_at": "2025-10-10T04:00:38.313Z",
   "layanan_publik": {
     "detail": {
       "id": 8320090,
@@ -17,7 +17,7 @@
       "latitude": null,
       "pengaduan_pelayanan": "<p></p><ol><li>Operator Satuan Pendidikan memastikan bahwa peserta didik yang akan ditambahkan pada Dapodik, tidak terdaftar pada Dapodik dengan melakukan verfikasi NIK secara mandiri.</li><li>Menginformasikan kepada operator Dinas Pendidikan Kabupaten Berau nama dan NIK peserta didik yang akan ditambahkan ke sistem Dapodik.</li><li>Admin Dapodik Dinas Pendidikan melakukan identifikasi ulang pada data peserta didik yang diajukan.</li><li>Admin Dapodik Dinas Pendidikan melakukan approval.</li><li>Operator Dapodik satuan pendidikan melakukan tarik data dan sinkronisasi pada aplikasi Dapodik satuan pendidikan.</li></ol>",
       "bagan_prosedur": "https://sippn.menpan.go.id/assets/images/article/large/no_image.png",
-      "last_update": "2025-09-17 17:17:40",
+      "last_update": "2025-09-19 05:46:52",
       "biaya": {
         "total": "0",
         "deskripsi": ""
